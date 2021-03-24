@@ -20,6 +20,7 @@ public class N9498_Score {
         } else {
             System.out.println('F');
         }
+        // gong
 	}
 
 }
