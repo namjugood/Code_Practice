@@ -9,6 +9,7 @@ public class N1001_A_min_B {
 		int A = sc.nextInt();
 		int B = sc.nextInt();
 		System.out.println(A-B);
+		sc.close();
 	}
 
 }

@@ -9,6 +9,7 @@ public class N10998_A_mlt_B {
 		int A = sc.nextInt();
 		int B = sc.nextInt();
 		System.out.println(A*B);
+		sc.close();
 	}
 
 }
